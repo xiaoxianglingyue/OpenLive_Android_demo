@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.1.0-9e71f2d2a93b31b15e6ae58a306dfe872d15e007.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.gradle\caches\modules-2\files-2.1\com.github.tony19\apktool-lib\1.4.4-3\1d0125bf578cb30dd192496db56c2d937495248a\apktool-lib-1.4.4-3.jar"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\apktool-lib-1.4.4-3-f04f96c1eb659d76682ef78e7b93e32bc88f3d10.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\55900f6b0f8e8cb7ef47ebcc7e5cfe8053b2840a\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e3d16084078ad5d813a0e145df920b50c40c769e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\88ff1dd2fa1f69d90dad4f2066cc9419d8c7c4f9\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5e8dda71da3c40022c541f4fd3752a96c48e6f9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\d261ee7e72ac538a71c25190f6a2b0eb9957dc7c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c8072d971cd71735c4c09ec7a0f3acba40847fea.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\5feeb0c5ef16a04a02b5e3b3af50a8f69c98ed01\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e3e6f2ce683a639aec374b2b0494cb923950ca82.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\14dd502e7491ee82f3d6b648891d87d3e331c670\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d7be575107b22162a7e633a36f310831e5869351.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\sdk\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-1122004a3fa117fd8021c27ca7b4a50caa9d4700.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\e87124becea0274ded9f7ae4d7643a3aca708bc5\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-dcebcc9a44cd75d6410a2395c290c8ae46ad71a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\98c65ceb3b5cb307badf43b983d85cd9af638473\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-68a8a321c885e52f21f58fc44c27a777da375abd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\7d4788525f2a570f032e62c78a8b746b9502101e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-09674c5a5d2e6a3b78afce4639063737d51e6f34.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\cd487706c59e14a65a9f0b4bcae7287cf8ca484c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-83966c6cd25aa29e094afab562a6dd7ec42e87b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-core\1.1.1-5\896dad3f097d92c60780b3e4fddf3378c14b298\logback-android-core-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="0896dad3f097d92c60780b3e4fddf3378c14b298">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\logback-android-core-1.1.1-5-3a70f7ec3e5122360fb2f8021d46c20ef2806734.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\dd9a7a74f8f3adbf39d761d517a63616fcd6f55a\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="dc6a8e45aa88c14409ae1afbdac3d95bdccdf589">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-83d4da350873f7fa582f1c3583d9a5ea120b66d7.jar" />
+    </item>
+    <item
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\libs\agora-rtc-sdk.jar"
+        revision="25.0.2"
+        sha1="24b7044681f7b50a2a3e861890f5660f34a91b96">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\agora-rtc-sdk-82b1054f9712ff4d2d69e8eb76e84f1edaef765d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\510a47860e554986c965086bc85dfa5e4a91780c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c60f8558e7651f957b04be202ce98874df848d62.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\b4efb2c0a65928cf307b7deb3ac5a63aa216958f\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-309d3b88ccdce9817c6115a1794d94c4f2711db4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-classic\1.1.1-5\33a8c805e9666fe904746e90b932b98386c133b9\logback-android-classic-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="33a8c805e9666fe904746e90b932b98386c133b9">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\logback-android-classic-1.1.1-5-e36408adfd9221a12ef08ab3976a03e406e9bea3.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.android\build-cache\ed339d56cd5684d8dd003cf7cc0a238f2579a802\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e199dabd0ea42815f4e84a06053ff0b93cf79737.jar" />
+    </item>
+    <item
+        jar="C:\Users\dasheng\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.21\139535a69a4239db087de9bab0bee568bf8e0b70\slf4j-api-1.7.21.jar"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\slf4j-api-1.7.21-08bf00093489fad861a8f74e6d988f20241985e4.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-3cf386473c804f16b74736bd11d97789bb418d23.jar" />
+    </item>
+
+</items>
